@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\empty",
+    "\\build\\generated",
+    "\\build\\generated-sources",
+    "\\build\\generated-sources\\ap-source-output",
+    "\\build\\generated\\src",
+    "\\build\\generated\\src\\org",
+    "\\build\\generated\\src\\org\\apache",
+    "\\build\\generated\\src\\org\\apache\\jsp",
+    "\\src",
+    "\\src\\java"
+  ],
+  "SelectedNode": "\\web\\index.jsp",
+  "PreviewInSolutionExplorer": false
+}
